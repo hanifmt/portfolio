@@ -1,5 +1,3 @@
-## My Portofolio
-
 ### IMACA API `[February 2022 - March 2022]`
 - Develop REST API for product data, sales and purchase transactions, sales and purchase data recap.
 - Project by the Hexa Team as a Back End Web developer with the programming languages used are Java Springboot, Neo4j.
