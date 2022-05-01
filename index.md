@@ -2,7 +2,7 @@
 - Develop REST API for product data, sales and purchase transactions, sales and purchase data recap.
 - Project by the Hexa Team as a Back End Web developer with the programming languages used are Java Springboot, Neo4j.
 
-### UIMax ISP `[January 2021 - December 2022]`
+### UIMax ISP `[January 2021 - December 2021]`
 - Enhancement and adjustments to existing web-based applications according to requests from the client.
 - Project by the Hexa Team as a Web developer with the programming languages used are Nodejs Expressjs, Sematic UI, Neo4j.
 
