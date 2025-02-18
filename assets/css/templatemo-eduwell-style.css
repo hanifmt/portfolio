@@ -742,7 +742,7 @@ section.main-banner {
 
 .main-banner .center-justified {
   position: relative;
-  background-color: #fff;
+  /* background-color: #fff; */
   text-align: justify;
   -moz-text-align-last: center;
   text-align-last: center;
