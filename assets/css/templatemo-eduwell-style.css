@@ -689,7 +689,7 @@ section.main-banner {
   z-index: 2;
 }
 
-.main-banner .right-image::after {
+/* .main-banner .right-image::after {
   position: absolute;
   background-image: url(../images/banner-right-dec.png);
   width: 378px;
@@ -697,7 +697,7 @@ section.main-banner {
   content: '';
   right: -25%;
   z-index: 1;
-}
+} */
 
 .main-banner .header-text::after {
   position: absolute;
@@ -1555,6 +1555,7 @@ section.page-heading .header-text h4 {
   font-size: 17px;
   text-transform: capitalize;
   color: #7a7a7a;
+  margin-top: 10px;
 }
 
 section.page-heading .header-text h1 {
